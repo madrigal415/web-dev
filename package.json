@@ -1,0 +1,24 @@
+{
+  "name": "web-dev",
+  "version": "1.0.0",
+  "description": "web code playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve-dev": "live-server",
+    "start": "npm run serve-dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madrigal415/web-dev.git"
+  },
+  "author": "dsm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madrigal415/web-dev/issues"
+  },
+  "homepage": "https://github.com/madrigal415/web-dev#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
